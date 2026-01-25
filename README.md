@@ -53,11 +53,18 @@ Run the program:
 ./AutoCryptor
 
 📂 Project Structure
+
 AutoCryptor/
+
 ├── binary_tree.cpp / .h     # Tree-based encoding logic
+
 ├── hashtable.cpp / .h       # Fast cipher lookup
+
 ├── manager.cpp / .h         # Program control flow
+
 ├── main(2).cpp               # Entry point
+
 ├── cipher.txt                # Cipher definition file
+
 ├── test1.txt / test2.txt     # Sample input files
 

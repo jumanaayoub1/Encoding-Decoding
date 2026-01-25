@@ -1,4 +1,4 @@
-AutoCryptor 🔐
+🔐 AutoCryptor 
 
 An intelligent C++ text encryption and decryption system that automatically detects input format and applies the correct cipher using efficient data structures.
 

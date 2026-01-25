@@ -39,6 +39,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/YOUR_USERNAME/AutoCryptor.git
+
 cd AutoCryptor/codeforlab3introdatastructures
 
 
